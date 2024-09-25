@@ -1,4 +1,9 @@
 ## Hi there 👋 Welcome to DevsDialogue
+![DevsDialogue poster](https://github.com/DevsDialogue/DevsDialogue/blob/main/Assets/DevsDialogue-Logo.png)
+
+**DevsDialogue** is a friendly community where you can learn how to code for free. We'll help you understand code in all possible ways by building projects and providing free quality resources. 
+
+We promote **Open-Source** Culture to break down technological barriers, enabling anyone to **contribute**, **innovate**, and benefit from the community's collective wisdom.
 
 <!--
 
